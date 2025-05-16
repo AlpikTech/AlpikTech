@@ -1,8 +1,7 @@
 ![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=AlpikTech&show_icons=true&theme=radical)
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpikTech&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlpikTech&theme=radical)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AlpikTech&layout=compact)
-
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlpikTech&theme=radical)
-
+---
+[![YouTube Kanalım](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/c/@alpiktech8172)
