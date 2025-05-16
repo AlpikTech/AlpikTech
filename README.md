@@ -4,4 +4,4 @@
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlpikTech&theme=radical)
 ---
-[![YouTube Kanalım](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/c/@alpiktech8172)
+[![YouTube Kanalım](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@alpiktech8172)
