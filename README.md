@@ -4,6 +4,6 @@
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlpikTech&theme=radical)
 ---
-[![YouTube Kanalım](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@alpiktech8172)
-[![Subscribe](https://img.shields.io/youtube/channel/subscribers/@alpiktech8172?style=social)](https://www.youtube.com/channel/@alpiktech8172?sub_confirmation=1)
-
+<a href="https://www.youtube.com/@alpiktech8172" target="_blank">
+  <img align="center" src="https://yt3.googleusercontent.com/ytc/AAUvwni_alpiktech8172=s176-c-k-c0x00ffffff-no-rj" alt="My YouTube Channel" height="100"/>
+</a>
