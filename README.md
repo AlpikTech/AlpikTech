@@ -4,6 +4,4 @@
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlpikTech&theme=radical)
 ---
-<a href="https://www.youtube.com/@alpiktech8172" target="_blank">
-  <img align="center" src="https://yt3.googleusercontent.com/ytc/AAUvwni_alpiktech8172=s176-c-k-c0x00ffffff-no-rj" alt="My YouTube Channel" height="100"/>
-</a>
+[![Kanalıma Göz Atın](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/youtube.png)](https://www.youtube.com/@alpiktech8172)
