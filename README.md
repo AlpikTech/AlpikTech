@@ -4,6 +4,5 @@
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlpikTech&theme=radical)
 ---
-[![Kanalıma Göz Atın](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/youtube.png)](https://www.youtube.com/@alpiktech8172)
 [![YouTube Kanalım](https://img.shields.io/badge/YouTube-Kanalıma%20Göz%20At-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alpiktech8172)
 
